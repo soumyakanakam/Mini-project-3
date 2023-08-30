@@ -1,0 +1,70 @@
+.stylebody{
+    background-image: url("14acf3b14c4d3652e3d9dd9b1cefc480.png");
+}
+.styleh1{
+    color: white;
+    text-align: right;
+}
+.styleh2{
+    color: white;
+    font-weight: bolder;
+}
+.span{
+    color: aqua;
+    font-weight: bolder;
+}
+.styleh3{
+    color: white;
+    font-weight: bolder;
+}
+.styleh4{
+    color: white;
+    font-weight: lighter;
+}
+.form{
+    text-align: right;
+}
+.sec1{
+    padding: 20px;
+    margin: auto;
+    border-color: white;
+
+}
+.sec2{
+    padding: 20px;
+    margin: auto;
+}
+.sec3{
+    padding: 20px;
+    margin: auto;
+}
+.se{
+    width: 350px;
+}
+.sec4{
+    padding: 20px;
+    margin: auto;
+
+
+}
+.sec5{
+    padding: 50px;
+    margin: auto;
+}
+.button{
+    color: white;
+    background-color: aqua;
+    width: 300px;
+    height: 30px;
+    font-size: larger;
+    text-align: center;
+}
+.box{
+    color:skyblue;
+    width: 350px;
+}
+.sec{
+    text-align: center;
+    width: 1965px;
+
+}
